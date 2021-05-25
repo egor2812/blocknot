@@ -1,3 +1,2 @@
-# blocknot
-For SamsungITSchool
+#Список дел / блокнот
 Простой список дел для платформы Android, сделанный в рамках программы SamsungITSchool
